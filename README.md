@@ -1,6 +1,6 @@
-# Project name
+# interview-prep
 
-> One sentence: the question this project answers.
+> Worked answers to the statistics, SQL, pandas and Git questions I expect in a data science interview.
 
 ## Question
 
